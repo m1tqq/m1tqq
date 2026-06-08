@@ -1,7 +1,7 @@
-# Hi, I'm Dimitrije — CS Student
+# Hi, I'm Dimitrije - CS Student
 
 Passionate about **machine learning systems, low-level programming, and high-performance computing**.  
-I enjoy understanding how things work *under the hood* — whether it's a compiler, a parallel algorithm, or a GPU kernel.  
+I enjoy understanding how things work *under the hood* - whether it's a compiler, a parallel algorithm, or a GPU kernel.  
 Currently building toward a path in **ML engineering and computer vision**.
 
 ---
@@ -17,17 +17,16 @@ Currently building toward a path in **ML engineering and computer vision**.
 
 ## What I'm Currently Working On
 
-- **DSL Compiler** — building a domain-specific language compiler prototype in Java  
-- **Unreal Engine 5** — survival-horror prototype (Resident Evil-style), working in Blueprints + C++  
-- **ML self-study** — neural networks and deep learning (bridging toward Computer Vision)  
-- **University:** 3rd year CS — currently focused on Deep Learning, Computer Vision, and parallel systems
+- **DSL Compiler** - building a domain-specific language compiler prototype in Java  
+- **Unreal Engine 5** - survival-horror prototype (Resident Evil-style), working in Blueprints + C++  
+- **ML self-study** - neural networks and deep learning (bridging toward Computer Vision)  
+- **University:** 3rd year CS - currently focused on Deep Learning, Computer Vision, and parallel systems
 
 ---
 
 ## Path
 
-`ML/Systems Engineering` is the goal.  
-Not the "fine-tuned a model on Kaggle" kind — the kind that understands what happens on the hardware level.
+`ML/Systems Engineering` is the goal.
 
 ---
 
@@ -41,4 +40,4 @@ Not the "fine-tuned a model on Kaggle" kind — the kind that understands what h
 
 ## Fun fact
 
-When I'm not coding, I'm probably at the gym, playing games, or making fragrance tier lists.
+When I'm not coding, I'm probably playing games or making fragrance / movie tier lists.
