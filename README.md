@@ -1,30 +1,44 @@
-# Hi, I'm Dimitrije - CS Student
+# Hi, I'm Dimitrije — CS Student
 
-Passionate about **machine learning systems, backend engineering, and data-driven software development**.  
-I enjoy building things that are **fast, reliable, and clean** — whether it's a C project, a Python tool, or an Unreal Engine prototype.
+Passionate about **machine learning systems, low-level programming, and high-performance computing**.  
+I enjoy understanding how things work *under the hood* — whether it's a compiler, a parallel algorithm, or a GPU kernel.  
+Currently building toward a path in **ML engineering and computer vision**.
 
 ---
 
 ## Technologies & Tools
-**Languages:** C, Python, Java, JavaScript  
-**Interests:** Machine Learning, Distributed Systems, Game Development (UE5), Data Engineering  
-**Other:** Linux/macOS, Git/GitHub, Docker, SQL
+
+**Languages:** C, Java, Python, JavaScript, C++ *(learning)*  
+**Low-level / Systems:** CUDA, parallel algorithms, compiler design  
+**Interests:** Machine Learning, Neural Networks, Computer Vision, GPU Computing, Game Development (UE5)  
+**Other:** Linux, Git/GitHub, SQL
 
 ---
 
 ## What I'm Currently Working On
-- Studying advanced systems concepts (parallelism, IPC, scheduling…)  
-- ML-related projects and data modeling  
-- Experimenting in Unreal Engine (survival-horror prototype)
+
+- **DSL Compiler** — building a domain-specific language compiler prototype in Java  
+- **Unreal Engine 5** — survival-horror prototype (Resident Evil-style), working in Blueprints + C++  
+- **ML self-study** — neural networks and deep learning (bridging toward Computer Vision)  
+- **University:** 3rd year CS — currently focused on Deep Learning, Computer Vision, and parallel systems
+
+---
+
+## Path
+
+`ML/Systems Engineering` is the goal.  
+Not the "fine-tuned a model on Kaggle" kind — the kind that understands what happens on the hardware level.
 
 ---
 
 ## Contact
-- Portfolio: *coming soon*  
+
+- Portfolio: *coming soon*
 - LinkedIn: [linkedin.com/in/dimitrije-jovanovic](https://www.linkedin.com/in/dimitrije-jovanovic-24017b356/)
 - GitHub: you're already here 👀
 
 ---
 
 ## Fun fact
-When I’m not coding, I’m probably at the gym, playing games, or making fragrance tier lists.
+
+When I'm not coding, I'm probably at the gym, playing games, or making fragrance tier lists.
