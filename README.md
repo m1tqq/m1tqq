@@ -1,4 +1,4 @@
-# Hey, I'm Dimitrije 👋
+# Hey, I'm Dimitrije
 
 Passionate about **machine learning systems, low-level programming, and high-performance computing**.  
 I enjoy understanding how things work *under the hood* - compilers, parallel algorithms, GPU kernels.  
@@ -6,7 +6,7 @@ Building toward a path in **ML engineering and computer vision**.
 
 <br>
 
-## 🛠 Stack
+## Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -20,7 +20,7 @@ Building toward a path in **ML engineering and computer vision**.
 
 <br>
 
-## 🚧 Currently Building
+## Currently Building
 
 | Project | Description |
 |---|---|
@@ -29,14 +29,14 @@ Building toward a path in **ML engineering and computer vision**.
 
 <br>
 
-## 🎯 Path
+## Path
 
 ```
-Low-level systems + GPU computing + ML/CV  ->  ML Systems Engineer
+to_add
 ```
 
 <br>
 
-## 📬 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrije-jovanovic-24017b356/)
