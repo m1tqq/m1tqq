@@ -1,4 +1,4 @@
-# Hey, I'm Dimitrije
+# Hey, I'm Dimitrije - a senior year compsci student
 
 Passionate about **machine learning systems, low-level programming, and high-performance computing**.  
 I enjoy understanding how things work *under the hood* - compilers, parallel algorithms, GPU kernels.  
