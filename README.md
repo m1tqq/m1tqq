@@ -1,42 +1,29 @@
-# Hey, I'm Dimitrije - a senior year compsci student
+# Hey, I'm Dimitrije 👋
 
-Passionate about **machine learning systems, low-level programming, and high-performance computing**.  
-I enjoy understanding how things work *under the hood* - compilers, parallel algorithms, GPU kernels.  
-Building toward a path in **ML engineering and computer vision**.
+Senior-year Computer Science student interested in **machine learning engineering, software systems, compilers, and high-performance computing**.
 
-<br>
+I like projects that go a bit beyond standard application development — from language tooling and hardware/software integration to ML systems and GPU computing.
 
-## Stack
+## Projects
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 📡 Arduino Radar Visualization
+Real-time radar visualization built with Arduino sensor data and a Python visualization layer.
 
-**Interests:** Machine Learning · Neural Networks · Computer Vision · GPU Computing · Game Dev (UE5)
+### 🔧 Horror DSL
+A Java-based domain-specific language for survival-horror scenarios, featuring lexical analysis, parsing, AST construction, semantic analysis, and interpretation.
 
-<br>
+## Tech
 
-## Currently Building
+![C](...)
+![Java](...)
+![Python](...)
+![C++](...)
+![SQL](...)
+![Linux](...)
 
-| Project | Description |
-|---|---|
-| 🔧 **DSL Compiler** | Domain-specific language compiler prototype in Java |
-| 👻 **UE5 Horror Prototype** | Resident Evil-style survival-horror, Blueprints + C++ |
-
-<br>
-
-## Path
-
-```
-to_add
-```
-
-<br>
+**Current focus:** Machine Learning · Deep Learning · Backend Engineering  
+**Also interested in:** GPU Computing · Game Development / Unreal Engine
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrije-jovanovic-24017b356/)
+[LinkedIn badge]
