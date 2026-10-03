@@ -1,47 +1,61 @@
-# Dimitrije Jovanovic
+# Hi, I'm Dimitrije 👋
 
 Senior-year Computer Science student focused on **software engineering and machine learning**.
 
-Interested in building systems beyond standard application development, particularly in **machine learning, compilers, systems programming, parallel computing, and GPU computing**.
+I like building systems beyond standard application development, particularly in **machine learning, compilers, systems programming, parallel computing, and GPU computing**.
 
 Currently strengthening my ML fundamentals while continuing to build a solid software engineering foundation.
+
+---
+
+## Projects
+
+### [Noct](https://github.com/m1tqq/noct-dsl-compiler) — a language for survival-horror text adventures
+
+A domain-specific language implemented from scratch in Java, with no dependencies. Write rooms, locked doors, keys and puzzles in an indentation-based script, then play the result in the terminal.
+
+- Hand-written lexer with Python-style indentation (`INDENT`/`DEDENT`) and string interpolation
+- Recursive-descent parser for an LL(1) grammar, building an AST of sealed records
+- Two-pass static checker with symbol tables and type inference
+- Tree-walking interpreter that runs the game interactively
+- Rust-style error messages with source snippets and "did you mean ...?" suggestions
+- Unit and end-to-end tests, CI, and a VS Code syntax highlighting extension
+
+`Java 21` · `Maven` · `JUnit 5` · `GitHub Actions`
+
+### [Arduino Radar Visualization](https://github.com/m1tqq/arduino-visualization-radar)
+
+A real-time radar built with an Arduino, an ultrasonic sensor and a servo motor. The hardware sweeps 180° and streams angle/distance measurements over serial, while a Python application parses the data and draws a live polar radar display.
+
+- Arduino firmware for servo control and HC-SR04 distance measurement
+- Python serial reader with automatic port detection and robust parsing
+- Real-time polar visualization with Matplotlib, plus a hardware-free simulation mode
+- Unit tests, and CI that also compiles the Arduino sketch
+
+`Arduino` · `C++` · `Python` · `NumPy` · `Matplotlib` · `PySerial`
 
 ---
 
 ## Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## Projects
-
-### Arduino Radar Visualization
-
-Real-time radar visualization system using an Arduino, ultrasonic sensor, servo motor, and Python.
-
-The hardware continuously scans the environment and sends angle/distance measurements over a serial connection, while the Python application handles data processing and real-time polar visualization.
-
-### Horror DSL
-
-A Java-based domain-specific language for defining survival-horror scenarios.
-
-The project includes lexical analysis, parsing, AST construction, semantic analysis, symbol tables, type checking, and interpretation.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## Current Focus
 
-- Machine Learning fundamentals
-- Deep Learning
-- Backend and Software Engineering
+- Machine learning fundamentals
+- Deep learning
+- Backend and software engineering
 
-Additional interests include **GPU computing, parallel programming, and game development with Unreal Engine**.
+Also interested in **GPU computing, parallel programming, and game development with Unreal Engine**.
 
 ---
 
