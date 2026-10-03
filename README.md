@@ -10,7 +10,7 @@ Currently strengthening my ML fundamentals while continuing to build a solid sof
 
 ## Projects
 
-### [Noct](https://github.com/m1tqq/noct-dsl-compiler) — a language for survival-horror text adventures
+### [Noct](https://github.com/m1tqq/noct-dsl-compiler) - a language for survival-horror text adventures
 
 A domain-specific language implemented from scratch in Java, with no dependencies. Write rooms, locked doors, keys and puzzles in an indentation-based script, then play the result in the terminal.
 
